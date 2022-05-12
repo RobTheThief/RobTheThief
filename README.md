@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rob Gannon (@RobTheThief)
 - 👀 I’m interested in React, App development, Web Development
-- 🌱 I’m currently learning React / React Native
+- 🌱 I’m currently learning Python / Design Thinking / Agile
 - 📫 contact me at robgannon.com
 
 Being creative while making something that behaves like a machine and giving it
